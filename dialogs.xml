@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<dialogs>
+    <dialog name="test">
+        <dialogId>0</dialogId> <styleId>123123</styleId>
+        
+        <caption>‡‡‡‡</caption>
+        <text>Test2</text>
+
+        <button1>button1</button1> <button2>button2</button2>
+    </dialog>
+</dialogs>
